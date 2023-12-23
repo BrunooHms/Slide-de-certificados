@@ -117,6 +117,21 @@ body {
 #radio7:checked ~ .first{
     margin-left: -150%;
 }
+#radio8:checked ~ .first{
+    margin-left: -175%;
+}
+#radio9:checked ~ .first{
+    margin-left: -200%;
+}
+#radio10:checked ~ .first{
+    margin-left: -225%;
+}
+#radio11:checked ~ .first{
+    margin-left: -250%;
+}
+#radio12:checked ~ .first{
+    margin-left: -275%;
+}
 
 .navigation-auto div{
     border: 2px solid #20a6ff;
@@ -157,5 +172,20 @@ body {
     background-color: #fff;
 }
 #radio7:checked ~ .navigation-auto .auto-btn7{
+    background-color: #fff;
+}
+#radio8:checked ~ .navigation-auto .auto-btn8{
+    background-color: #fff;
+}
+#radio9:checked ~ .navigation-auto .auto-btn9{
+    background-color: #fff;
+}
+#radio10:checked ~ .navigation-auto .auto-btn10{
+    background-color: #fff;
+}
+#radio11:checked ~ .navigation-auto .auto-btn11{
+    background-color: #fff;
+}
+#radio12:checked ~ .navigation-auto .auto-btn12{
     background-color: #fff;
 }
